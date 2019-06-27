@@ -174,16 +174,16 @@ img::-moz-selection {
     padding: 12px 0;
   }
 }
-
+/* 
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/header-bg.jpg");
+  background-image: url('../img/laptop.jpeg');
   background-repeat: no-repeat;
-  background-attachment: scroll;
+  background-attachment: fixed;
   background-position: center center;
   background-size: cover;
-}
+} */
 
 header.masthead .intro-text {
   padding-top: 150px;
